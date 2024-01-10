@@ -85,3 +85,7 @@ admin Plaintext_password
 
 за динамічним лінком https://127.0.0.1:8080 
 
+**Відео-інструкція**
+
+https://github.com/sbazanov/Task7_k3d-ArgoCD/assets/96147501/695050af-6000-4f6b-92bd-7ec6cedf1b46
+
