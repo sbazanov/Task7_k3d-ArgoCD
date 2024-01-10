@@ -16,6 +16,8 @@ Metrics-server is running at https://0.0.0.0:43297/api/v1/namespaces/kube-system
    
 namespace/argocd created
 
+alias k=kubectl
+
       $ k get ns
       
 NAME              STATUS   AGE
@@ -81,5 +83,5 @@ Plaintext_password
 
 admin Plaintext_password
 
-за диначічним лінком https://127.0.0.1:8080 
+за динамічним лінком https://127.0.0.1:8080 
 
